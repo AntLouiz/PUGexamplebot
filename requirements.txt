@@ -1,0 +1,3 @@
+tmdbsimple==1.8.0
+python-telegram-bot==8.1.1
+python-decouple==3.1
